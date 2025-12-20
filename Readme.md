@@ -1,10 +1,11 @@
 # 👋 Hi, I’m **Xu Zheng** (zhengxuJosh)
 
-🔭 AI Ph.D. candidate @ **Hong Kong University of Science and Technology (Guangzhou)**  
-Resident Doctoral Researcher @ **INSAIT**  
+🔭 AI Ph.D. candidate @ **Hong Kong University of Science and Technology (Guangzhou)**  & Resident Doctoral Researcher @ **INSAIT**  
+
 📍 Guangzhou & Hong Kong & Sofia
 
 📫 Contact: **zhengxu128@gmail.com**  
+
 🌐 Website: https://zhengxujosh.github.io/ 
 
 ---
