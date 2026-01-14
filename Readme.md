@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Xu Zheng** (zhengxuJosh)
+# 👋 Hi, I’m **Xu Zheng**
 
 📖 AI Ph.D. candidate @ **Hong Kong University of Science and Technology (Guangzhou)**
 
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of perception, understanding, reasoning, and generation, such as:
+My doctoral research focuses on developing algorithms for robust and interpretable multi-modal learning that span the full spectrum of perception, understanding, reasoning, and generation.
 
 ---
 
