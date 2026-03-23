@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Xu Zheng**
 
-📖 AI Ph.D. candidate @ **Hong Kong University of Science and Technology (Guangzhou)**
+📖 AI Ph.D. candidate @ **Hong Kong University of Science and Technology**
 
-📍 Guangzhou & Hong Kong
+📍 Guangzhou & London & Hong Kong 
 
 📫 Contact: **zhengxu128@gmail.com**  
 
